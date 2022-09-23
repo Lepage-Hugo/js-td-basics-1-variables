@@ -6,7 +6,7 @@
 
 #### 1. Introduction à la programmation
 
-1. Un programme, c’est quoi ?
+1. Un programme, c’est  quoi ?
 2. Comment créer des programmes ?
 3. Apprendre à programmer
 4. TL;DR : Résumons
