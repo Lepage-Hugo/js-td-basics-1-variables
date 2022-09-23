@@ -6,7 +6,7 @@
 
 #### 1. Introduction à la programmation
 
-1. Un programme, c’est  quoi ?
+1. Un programme, c’est quoi ?
 2. Comment créer des programmes ?
 3. Apprendre à programmer
 4. TL;DR : Résumons
@@ -35,7 +35,7 @@
 4. Interactions avec l’utilisateur
 5. Importance du nommage des variables
 6. À vous de jouer !
-7. TL;DR :Résumons
+7. TL;DR : Résumons
 
 ## Cours vidéos "The Complete JavaScript Course" sur Udemy
 
