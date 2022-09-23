@@ -35,7 +35,7 @@
 4. Interactions avec l’utilisateur
 5. Importance du nommage des variables
 6. À vous de jouer !
-7. TL;DR : Résumons
+7. TL;DR :Résumons
 
 ## Cours vidéos "The Complete JavaScript Course" sur Udemy
 
