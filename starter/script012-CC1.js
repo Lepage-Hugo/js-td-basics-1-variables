@@ -20,4 +20,15 @@ Mark est plus élevé que celui de John ? true").
 BONNE CHANCE 😀
 */
 
+let weightMark, heightMark, weightJohn, heightJohn, bmiMark, bmiJohn;
+weightMark = 70 ;
+heightMark = 1.75 ;
+weightJohn = 100 ;
+heightJohn = 2 ;
+bmiMark = weightMark / heightMark^2 ;
+bmiJohn = heightJohn / heightJohn^2 ;
+
+let bmiPlusImportant = bmiMark>bmiJohn ;
+
+console.log(`Est-ce que le BMI de Mark est plus élevé que celui de John ? ${bmiPlusImportant}`) ;
 
